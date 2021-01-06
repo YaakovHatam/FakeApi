@@ -12,7 +12,7 @@
 2. create the functions `addProduct(productObject)`, `getProduct(id)`, `updateProduct(productObject)`
 3. create new product using the Product function constructor.
 4. call the function `addProduct` passing the product that you created as paramater
-5. inside `addProduct` use the function `fetch` to call the endpoint `http://localhost:3000/product` using `POST` verb and passing the product object as the data
+5. inside `addProduct` use the function `fetch` to call the endpoint `http://localhost:3000/products` using `POST` verb and passing the product object as the data
 
 ## Routes
 GET    /products
